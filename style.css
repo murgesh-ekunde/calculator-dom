@@ -1,0 +1,19 @@
+button{
+    width: 92.5px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+#result{
+    height: 50px;
+    border: none;
+    background-color: rgb(203, 207, 207);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#equal{
+    width: 190px;
+    background-color: aquamarine;
+}
